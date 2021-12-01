@@ -12,8 +12,7 @@
 + Framework 
     + Selenium - Web Driver  
     
-+ Dependencias
-    + Selenium-Java
++ Dependencias    
     + JUnit
     + Cucumber
 
