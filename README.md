@@ -5,7 +5,7 @@
                 
 
 + Liguagem
-    + <img align="center" alt="tGUhh-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java
+    + Java
     
 + IDE
     + NetBeans  
